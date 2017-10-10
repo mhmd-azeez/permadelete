@@ -1,5 +1,2 @@
-# Permadelete
-A beautiful file shredder for windows
-
-## Project moved
+# Project moved
 This project is now hosted here: https://github.com/DevelopersTree/permadelete
